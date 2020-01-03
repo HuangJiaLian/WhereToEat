@@ -13,4 +13,5 @@ A = diningHall(district = 'A', floorNum = 4)
 randomOption = A.randomChooseFloor()
 
 print(randomOption)
+input()
 
