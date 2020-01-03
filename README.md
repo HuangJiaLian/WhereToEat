@@ -5,6 +5,15 @@
 - 一键决定去几楼，✂️✊布👋。
 - 跨平台,支持Window, Mac, Linux。
 
+# 使用
+到[这里](https://github.com/HuangJiaLian/WhereToEat/releases)下载最新版本的的“去哪吃”应用。
+- Window用户双击即可运行。
+- Mac/Linux用户:
+```bash
+chmod +x main_for_xxx 
+./main_for_xxx
+```
+
 # Todo:
 - [x] 楼层选择
 - [ ] 区的选择
